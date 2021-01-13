@@ -1,2 +1,2 @@
 # git_demo
-Practice with git. This is my first push.
+Practice with git. This is my first push. Modified from Github
